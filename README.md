@@ -25,8 +25,8 @@ Bu Python aracı, iç içe klasörlerdeki “passing_filters.vcf” dosyaların�
 ## Sonuç Ekranı
 
 Aşağıda örnek analiz sonuç ekranı:
+![Örnek analiz grafiği](https://raw.githubusercontent.com/metinciris/tmb/refs/heads/main/Figure_1.png)
 
-![Örnek analiz grafiği](ırmızı kesik çizgi klinik cutoff (TMB=10), mavi sütunlar yüksek, gri sütunlar düşük TMB’li vakaları gösterir.
 
 ## Gereksinimler
 
